@@ -53,6 +53,8 @@ Tab Manager is a Chrome extension designed to bring order to your browsing chaos
 
 ## Development
 
+getting started with chrome extension? [learn here.](https://medium.com/@meet30997/getting-started-with-chrome-extension-in-2023-how-to-create-your-own-chrome-extension-f5716770e8bb)
+
 The extension consists of the following main files:
 
 - `manifest.json`: Contains extension metadata and permissions
