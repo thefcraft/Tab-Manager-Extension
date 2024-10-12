@@ -1,5 +1,7 @@
 # Tab Manager Chrome Extension
 
+_****IMPORTANT: This project is no longer supported. Please refer to the [Migrated Version](https://github.com/thefcraft/Tab-Manager-Extension-PRO) for the latest updates and features.****_
+
 **Are You Tired of Having Millions of Open Tabs? Manage Your Tabs in Workspaces!**
 
 Tab Manager is a Chrome extension designed to bring order to your browsing chaos. It helps you organize and manage your browser tabs efficiently by allowing you to create workspaces, save tabs, and quickly access them later. Say goodbye to cluttered browser windows and hello to a more organized, productive browsing experience!
